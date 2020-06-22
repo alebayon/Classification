@@ -1,2 +1,2 @@
 # Classification
-LogR) Logistic Regression KNN) K Nearest Neighbours DT-RF) Decision Tree and Random Forest 
+LogR) Logistic Regression KNN) K Nearest Neighbours DT-RF) Decision Tree and Random Forest SVM) Support Vector Machine
